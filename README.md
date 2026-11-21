@@ -1,4 +1,3 @@
-# meetly-ai-growth-analytics
 # Meetly AI — Understanding SaaS Growth Through Data
 
 **A hands-on portfolio project exploring how a SaaS product attracts users, turns them into active customers, and grows over time.**
