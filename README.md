@@ -73,15 +73,6 @@ Simply signing up, viewing a demo, or connecting an app won't count as activatio
 - **Tableau Public:** To build dashboards and communicate findings.
 - **GitHub:** To document the work and share the project.
 
-## Project Roadmap
-
-- [ ] Build a realistic synthetic dataset
-- [ ] Set up the MySQL database
-- [ ] Analyze acquisition, onboarding and activation
-- [ ] Explore engagement, retention and monetization
-- [ ] Evaluate the onboarding experiment
-- [ ] Build an interactive Tableau dashboard
-- [ ] Present findings and actionable growth recommendations
 
 ## What I hope to achieve
 
